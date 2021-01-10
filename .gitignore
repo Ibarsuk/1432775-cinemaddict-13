@@ -11,6 +11,5 @@ Thumbs.db
 *.log*
 node_modules/
 
-# Собранные файлы (допишите самостоятельно)
-public/bundle.js
+# Собранные файлы
 public/bundle.js.map
